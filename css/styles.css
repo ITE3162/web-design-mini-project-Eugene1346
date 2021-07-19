@@ -1,7 +1,7 @@
 /* Your styles go here *//* Your styles go here */
 body
 {
-    background-color: gray;
+    background-color:whitesmoke;
     font-family: cursive;
     opacity: 0.9;
     width: 1000px;
@@ -11,33 +11,20 @@ body
 
 #container
 {
-background-color: rgb(58, 240, 58);
+background-color:white;
 width: 135%;
 height: 212%;
 float:inherit;
 }
-
-
-#section1
-{
-background-color: rgb(37, 36, 36);
-width: 20%; 
-height: 100%;
-float: left;
-}
-#section2
-{
-background-color: cornflowerblue;
-width: 80%; 
-height: 100%;
-float: left;
-}
-ul,li
-{
-    
-    text-decoration: blanchedalmond;
-    font-family: sans-serif;
-    -moz-text-decoration-line: none;
+.button {
+    background-color:#f3971b; /* Green */
+    border: none;
+    color:black;
+    padding: 10px 20px;
+    text-align: center;
     text-decoration: none;
-   font-size: 150%;
-}
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
