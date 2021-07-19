@@ -1,1 +1,43 @@
-/* Your styles go here */
+/* Your styles go here *//* Your styles go here */
+body
+{
+    background-color: gray;
+    font-family: cursive;
+    opacity: 0.9;
+    width: 1000px;
+    height: 300px;
+
+}
+
+#container
+{
+background-color: rgb(58, 240, 58);
+width: 135%;
+height: 212%;
+float:inherit;
+}
+
+
+#section1
+{
+background-color: rgb(37, 36, 36);
+width: 20%; 
+height: 100%;
+float: left;
+}
+#section2
+{
+background-color: cornflowerblue;
+width: 80%; 
+height: 100%;
+float: left;
+}
+ul,li
+{
+    
+    text-decoration: blanchedalmond;
+    font-family: sans-serif;
+    -moz-text-decoration-line: none;
+    text-decoration: none;
+   font-size: 150%;
+}
