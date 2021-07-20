@@ -17,9 +17,9 @@ height: 212%;
 float:inherit;
 }
 .button {
-    background-color:#f3971b; /* Green */
+    background-color:whitesmoke; /* Green */
     border: none;
-    colo:black;
+    colo:white;
     padding: 10px 20px;
     text-align: center;
     text-decoration: none;
