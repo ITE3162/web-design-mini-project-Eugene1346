@@ -91,4 +91,19 @@ float:inherit;
       margin-top: 0;
     }
   }
+  .div1 {
+    width: 1000px;
+    height: 3px;
+    border: 1px solid blue;
+    padding: 50px;
+background-position: top;
+background-color: blanchedalmond;
+  }
   
+  .div2 {
+    width: 800px;
+    height: 1px;px;  
+    padding: 50px;
+    border: 1px solid red;
+    background-color: blanchedalmond;
+  }
